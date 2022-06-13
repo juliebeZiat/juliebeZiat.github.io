@@ -4,25 +4,17 @@ body {
   width: 80%;
   font-family: 'Roboto Mono', monospace;
   margin: 2em auto;
-}
-
-h1 {
   text-align: center;
 }
 
 h2 {
   font-size: .9em;
-  text-align: center;
   text-decoration: none;
   color: black;
 }
 
 a {
   color: rgb(74, 189, 151);
-}
-
-.introduction {
-  text-align: center;
 }
 
 img {
@@ -49,7 +41,6 @@ img {
 }
 
 footer {
-  text-align: center;
   margin: 5em;
 }
 
